@@ -20,8 +20,8 @@ input[type="text"] {
 /* Hide the output paragraph until the user has submitted the form */
 
 p {
-  background: #ffc125;
-  color: #5e2612;
+  background: #ffffff;
+  color: #000000;
   padding: 10px;
   visibility: hidden;
 }
